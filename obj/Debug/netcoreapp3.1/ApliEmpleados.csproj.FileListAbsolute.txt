@@ -1,0 +1,13 @@
+C:\Users\Las mellas\source\repos\ApliEmpleados\ApliEmpleados\bin\Debug\netcoreapp3.1\ApliEmpleados.exe
+C:\Users\Las mellas\source\repos\ApliEmpleados\ApliEmpleados\bin\Debug\netcoreapp3.1\ApliEmpleados.deps.json
+C:\Users\Las mellas\source\repos\ApliEmpleados\ApliEmpleados\bin\Debug\netcoreapp3.1\ApliEmpleados.runtimeconfig.json
+C:\Users\Las mellas\source\repos\ApliEmpleados\ApliEmpleados\bin\Debug\netcoreapp3.1\ApliEmpleados.runtimeconfig.dev.json
+C:\Users\Las mellas\source\repos\ApliEmpleados\ApliEmpleados\bin\Debug\netcoreapp3.1\ApliEmpleados.dll
+C:\Users\Las mellas\source\repos\ApliEmpleados\ApliEmpleados\bin\Debug\netcoreapp3.1\ApliEmpleados.pdb
+C:\Users\Las mellas\source\repos\ApliEmpleados\ApliEmpleados\obj\Debug\netcoreapp3.1\ApliEmpleados.csprojAssemblyReference.cache
+C:\Users\Las mellas\source\repos\ApliEmpleados\ApliEmpleados\obj\Debug\netcoreapp3.1\ApliEmpleados.AssemblyInfoInputs.cache
+C:\Users\Las mellas\source\repos\ApliEmpleados\ApliEmpleados\obj\Debug\netcoreapp3.1\ApliEmpleados.AssemblyInfo.cs
+C:\Users\Las mellas\source\repos\ApliEmpleados\ApliEmpleados\obj\Debug\netcoreapp3.1\ApliEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\Las mellas\source\repos\ApliEmpleados\ApliEmpleados\obj\Debug\netcoreapp3.1\ApliEmpleados.dll
+C:\Users\Las mellas\source\repos\ApliEmpleados\ApliEmpleados\obj\Debug\netcoreapp3.1\ApliEmpleados.pdb
+C:\Users\Las mellas\source\repos\ApliEmpleados\ApliEmpleados\obj\Debug\netcoreapp3.1\ApliEmpleados.genruntimeconfig.cache
